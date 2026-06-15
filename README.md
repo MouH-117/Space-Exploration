@@ -1,19 +1,34 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# Personal Website
+
+A space exploration themed landing page built as the third project in the [Scrimba Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack?via=u019s7t).
+
+---
+
+## 🛠️ Built With
+
+[![Skills](https://skillicons.dev/icons?i=html,css,vite)](https://skillicons.dev)
+
+---
+
+## 🚀 Getting Started
+
+```bash
 npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+---
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 📚 What I Practiced
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Centering elements and styling buttons
+- Custom fonts with Google Fonts and @font-face
+- Using IDs to target unique elements
+- Choosing modern image formats (WebP vs JPG)
+- Building a color palette based on an image
+- Improving readability with text shadows
+- Setting the lang attribute for accessibility
 
-Happy Coding!
+---
+
+*Part of my [Fullstack Developer Path](https://github.com/MouH-117/Fullstack-Dev-Path) repo.*
